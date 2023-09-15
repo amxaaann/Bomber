@@ -32,8 +32,8 @@ pkg install pv -y
 pkg install figlet -y
 pkg install python3 -y
 pip install colorama
-git clone https://github.com/jatinkalwar/m-bomber2.O
-cd m-bomber2.O
+git clone https://github.com/amxaaann/bomber
+cd bomber
 bash bomber.sh
 ```
 ##  Termux Single Line Installation
