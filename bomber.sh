@@ -1,2 +1,2 @@
-python $HOME/bomber3.O/mod.py
-python $HOME/bomber3.O/bomb.py
+python $HOME/m-bomber2.O/mod.py
+python $HOME/m-bomber2.O/bomb.py
