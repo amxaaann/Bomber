@@ -32,7 +32,7 @@ pkg install pv -y
 pkg install figlet -y
 pkg install python3 -y
 pip install colorama
-git clone https://github.com/amxaaann/bomber
+git clone https://github.com/amxaaann/Bomber
 cd bomber
 bash bomber.sh
 ```
